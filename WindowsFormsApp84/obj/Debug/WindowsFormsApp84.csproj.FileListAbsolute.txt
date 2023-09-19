@@ -1,0 +1,10 @@
+G:\Users\ASUS\source\repos\WindowsFormsApp84\WindowsFormsApp84\bin\Debug\WindowsFormsApp84.exe.config
+G:\Users\ASUS\source\repos\WindowsFormsApp84\WindowsFormsApp84\bin\Debug\WindowsFormsApp84.exe
+G:\Users\ASUS\source\repos\WindowsFormsApp84\WindowsFormsApp84\bin\Debug\WindowsFormsApp84.pdb
+G:\Users\ASUS\source\repos\WindowsFormsApp84\WindowsFormsApp84\obj\Debug\WindowsFormsApp84.csprojAssemblyReference.cache
+G:\Users\ASUS\source\repos\WindowsFormsApp84\WindowsFormsApp84\obj\Debug\WindowsFormsApp84.Form1.resources
+G:\Users\ASUS\source\repos\WindowsFormsApp84\WindowsFormsApp84\obj\Debug\WindowsFormsApp84.Properties.Resources.resources
+G:\Users\ASUS\source\repos\WindowsFormsApp84\WindowsFormsApp84\obj\Debug\WindowsFormsApp84.csproj.GenerateResource.cache
+G:\Users\ASUS\source\repos\WindowsFormsApp84\WindowsFormsApp84\obj\Debug\WindowsFormsApp84.csproj.CoreCompileInputs.cache
+G:\Users\ASUS\source\repos\WindowsFormsApp84\WindowsFormsApp84\obj\Debug\WindowsFormsApp84.exe
+G:\Users\ASUS\source\repos\WindowsFormsApp84\WindowsFormsApp84\obj\Debug\WindowsFormsApp84.pdb
